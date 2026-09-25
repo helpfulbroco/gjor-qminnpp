@@ -1,0 +1,2 @@
+# gjor-qminnpp
+Batch created
